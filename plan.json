@@ -1,0 +1,198 @@
+[
+	{
+		"name": "Beginner Full Body",
+		"description": "A gentle introduction to full-body workouts, ideal for beginners.",
+		"plan": [
+			{
+				"day": "Monday",
+				"muscleGroup": "Full Body",
+				"exercises": [
+					{
+						"id": 1,
+						"name": "Bodyweight Squats",
+						"completed": false
+					},
+					{
+						"id": 2,
+						"name": "Push-ups (or Knee Push-ups)",
+						"completed": false
+					},
+					{ "id": 3, "name": "Walking Lunges", "completed": false }
+				]
+			},
+			{
+				"day": "Wednesday",
+				"muscleGroup": "Full Body",
+				"exercises": [
+					{ "id": 4, "name": "Plank", "completed": false },
+					{ "id": 5, "name": "Dumbbell Rows", "completed": false },
+					{ "id": 6, "name": "Glute Bridges", "completed": false }
+				]
+			},
+			{
+				"day": "Friday",
+				"muscleGroup": "Full Body",
+				"exercises": [
+					{
+						"id": 7,
+						"name": "Bodyweight Squats",
+						"completed": false
+					},
+					{
+						"id": 8,
+						"name": "Dumbbell Shoulder Press",
+						"completed": false
+					},
+					{ "id": 9, "name": "Superman Hold", "completed": false }
+				]
+			}
+		]
+	},
+	{
+		"name": "Intermediate Split",
+		"description": "A 5-day split routine for intermediate fitness enthusiasts.",
+		"plan": [
+			{
+				"day": "Monday",
+				"muscleGroup": "Chest and Triceps",
+				"exercises": [
+					{ "id": 1, "name": "Bench Press", "completed": false },
+					{
+						"id": 2,
+						"name": "Incline Dumbbell Press",
+						"completed": false
+					},
+					{ "id": 3, "name": "Tricep Pushdowns", "completed": false }
+				]
+			},
+			{
+				"day": "Tuesday",
+				"muscleGroup": "Back and Biceps",
+				"exercises": [
+					{ "id": 4, "name": "Deadlifts", "completed": false },
+					{ "id": 5, "name": "Pull-ups", "completed": false },
+					{ "id": 6, "name": "Barbell Curls", "completed": false }
+				]
+			},
+			{
+				"day": "Wednesday",
+				"muscleGroup": "Legs",
+				"exercises": [
+					{ "id": 7, "name": "Squats", "completed": false },
+					{ "id": 8, "name": "Leg Press", "completed": false },
+					{ "id": 9, "name": "Calf Raises", "completed": false }
+				]
+			},
+			{
+				"day": "Thursday",
+				"muscleGroup": "Shoulders and Abs",
+				"exercises": [
+					{ "id": 10, "name": "Military Press", "completed": false },
+					{ "id": 11, "name": "Lateral Raises", "completed": false },
+					{
+						"id": 12,
+						"name": "Hanging Leg Raises",
+						"completed": false
+					}
+				]
+			},
+			{
+				"day": "Friday",
+				"muscleGroup": "Full Body",
+				"exercises": [
+					{
+						"id": 13,
+						"name": "Romanian Deadlifts",
+						"completed": false
+					},
+					{ "id": 14, "name": "Dips", "completed": false },
+					{ "id": 15, "name": "Face Pulls", "completed": false }
+				]
+			}
+		]
+	},
+	{
+		"name": "Advanced Power Building",
+		"description": "A challenging 6-day routine combining strength and hypertrophy training.",
+		"plan": [
+			{
+				"day": "Monday",
+				"muscleGroup": "Chest and Triceps",
+				"exercises": [
+					{
+						"id": 1,
+						"name": "Barbell Bench Press",
+						"completed": false
+					},
+					{
+						"id": 2,
+						"name": "Incline Dumbbell Press",
+						"completed": false
+					},
+					{
+						"id": 3,
+						"name": "Close-Grip Bench Press",
+						"completed": false
+					}
+				]
+			},
+			{
+				"day": "Tuesday",
+				"muscleGroup": "Back and Biceps",
+				"exercises": [
+					{ "id": 4, "name": "Barbell Rows", "completed": false },
+					{
+						"id": 5,
+						"name": "Weighted Pull-ups",
+						"completed": false
+					},
+					{ "id": 6, "name": "Hammer Curls", "completed": false }
+				]
+			},
+			{
+				"day": "Wednesday",
+				"muscleGroup": "Legs",
+				"exercises": [
+					{ "id": 7, "name": "Back Squats", "completed": false },
+					{
+						"id": 8,
+						"name": "Romanian Deadlifts",
+						"completed": false
+					},
+					{ "id": 9, "name": "Leg Extensions", "completed": false }
+				]
+			},
+			{
+				"day": "Thursday",
+				"muscleGroup": "Shoulders and Abs",
+				"exercises": [
+					{ "id": 10, "name": "Overhead Press", "completed": false },
+					{ "id": 11, "name": "Upright Rows", "completed": false },
+					{ "id": 12, "name": "Cable Crunches", "completed": false }
+				]
+			},
+			{
+				"day": "Friday",
+				"muscleGroup": "Upper Body Power",
+				"exercises": [
+					{ "id": 13, "name": "Power Cleans", "completed": false },
+					{ "id": 14, "name": "Push Press", "completed": false },
+					{ "id": 15, "name": "Weighted Dips", "completed": false }
+				]
+			},
+			{
+				"day": "Saturday",
+				"muscleGroup": "Lower Body Power",
+				"exercises": [
+					{ "id": 16, "name": "Front Squats", "completed": false },
+					{ "id": 17, "name": "Box Jumps", "completed": false },
+					{
+						"id": 18,
+						"name": "Barbell Hip Thrusts",
+						"completed": false
+					}
+				]
+			}
+		]
+	}
+]
